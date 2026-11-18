@@ -1,0 +1,201 @@
+Respondent_ID,Age,Sex,City_Municipality,Industry,Occupation,Educational_Attainment,Employment_Status,Monthly_Salary_PHP,Hours_Worked_Per_Week,With_SSS_PhilHealth_PagIBIG,Received_Training
+1,21,Female,1,Information and Communication,IT Support Staff,Junior High School,Probationary,"22,500",40,Yes,Yes
+2,34,Female,2,Information and Communication,IT Support Staff,Junior High School,Casual,"33,000",50,Yes,Yes
+3,10,Female,3,Transportation and Storage,Driver,Elementary,Probationary,"16,000",60,Yes,No
+4,25,Male,2,Accommodation and Food Service,Cook,Elementary,Casual,"15,000",50,No,Yes
+5,18,Male,4,Transportation and Storage,Warehouse Worker,Junior High School,Project-based,"16,000",60,Yes,Yes
+6,37,Female,5,Wholesale and Retail Trade,Cashier,Vocational/Technical,Project-based,"21,500",40,No,No
+7,32,Female,1,Wholesale and Retail Trade,Cashier,Elementary,Regular,"10,000",54,No,Yes
+8,28,Female,1,Wholesale and Retail Trade,Store Clerk,Elementary,Probationary,"15,000",40,Yes,Yes
+9,28,Female,2,Accommodation and Food Service,Housekeeping Staff,Vocational/Technical,Casual,"13,500",40,No,No
+10,21,Male,6,Manufacturing,Quality Inspector,Senior High School,Contractual,"11,500",45,Yes,Yes
+11,18,Male,3,Transportation and Storage,Warehouse Worker,Vocational/Technical,Regular,"21,500",40,No,Yes
+12,18,Male,3,Transportation and Storage,Driver,Vocational/Technical,Casual,"9,500",50,Yes,Yes
+13,41,Female,3,Administrative Services,Office Clerk,Vocational/Technical,Contractual,"16,000",45,Yes,No
+14,26,Male,7,Human Health and Social Work,Nursing Assistant,College Graduate,Probationary,"18,500",60,No,Yes
+15,19,Female,5,Accommodation and Food Service,Housekeeping Staff,College Undergraduate,Casual,"11,500",50,Yes,No
+16,11,Male,4,Construction,Site Assistant,Vocational/Technical,Contractual,"14,500",40,No,No
+17,11,Female,4,Wholesale and Retail Trade,Store Clerk,Vocational/Technical,Probationary,"13,500",40,Yes,Yes
+18,6,Male,1,Manufacturing,Production Worker,Junior High School,Probationary,"14,000",40,Yes,Yes
+19,19,Female,3,Transportation and Storage,Warehouse Worker,Vocational/Technical,Contractual,"19,500",50,No,No
+20,12,Female,3,Wholesale and Retail Trade,Store Clerk,Senior High School,Regular,"13,500",40,Yes,No
+21,18,Female,6,Education,Office Staff,Elementary,Regular,"18,000",40,Yes,Yes
+22,30,Male,7,Administrative Services,Office Clerk,Vocational/Technical,Regular,"19,000",60,Yes,Yes
+23,20,Female,1,Information and Communication,IT Support Staff,College Undergraduate,Project-based,"28,500",50,No,Yes
+24,19,Female,3,Transportation and Storage,Driver,Senior High School,Project-based,"21,000",40,Yes,No
+25,40,Female,4,Education,Teacher,Vocational/Technical,Contractual,"21,000",40,Yes,Yes
+26,11,Female,8,Human Health and Social Work,Nursing Assistant,Vocational/Technical,Casual,"30,000",48,No,No
+27,29,Female,9,Administrative Services,HR Assistant,Senior High School,Regular,"19,000",50,No,Yes
+28,31,Female,4,Accommodation and Food Service,Cook,Vocational/Technical,Casual,"11,000",40,Yes,Yes
+29,22,Male,9,Transportation and Storage,Delivery Rider,College Undergraduate,Probationary,"20,500",60,Yes,No
+30,5,Female,5,Wholesale and Retail Trade,Sales Associate,Senior High School,Regular,"14,500",48,Yes,No
+31,19,Female,6,Manufacturing,Production Worker,College Graduate,Regular,"20,000",40,No,No
+32,12,Female,8,Construction,Site Assistant,Elementary,Probationary,"16,500",48,Yes,Yes
+33,16,Male,3,Construction,Electrician,Senior High School,Probationary,"14,500",40,Yes,No
+34,10,Male,7,Human Health and Social Work,Medical Secretary,Elementary,Project-based,"22,500",48,Yes,No
+35,8,Male,6,Construction,Site Assistant,Junior High School,Contractual,"24,000",40,No,Yes
+36,27,Male,5,Accommodation and Food Service,Housekeeping Staff,Elementary,Probationary,"13,000",40,No,No
+37,14,Female,1,Construction,Electrician,College Undergraduate,Project-based,"21,500",40,Yes,No
+38,22,Female,4,Human Health and Social Work,Medical Secretary,Elementary,Probationary,"19,500",48,No,Yes
+39,32,Male,4,Wholesale and Retail Trade,Sales Associate,Senior High School,Casual,"11,500",45,No,Yes
+40,4,Female,10,Manufacturing,Quality Inspector,Junior High School,Regular,"18,500",40,No,Yes
+41,1,Female,6,Human Health and Social Work,Caregiver,College Undergraduate,Casual,"16,000",48,Yes,Yes
+42,17,Female,8,Construction,Electrician,Senior High School,Regular,"17,000",45,No,No
+43,2,Male,6,Transportation and Storage,Delivery Rider,Junior High School,Probationary,"14,500",54,No,No
+44,40,Female,2,Administrative Services,Office Clerk,College Graduate,Probationary,"18,500",40,No,No
+45,20,Female,8,Transportation and Storage,Driver,College Undergraduate,Regular,"14,500",40,Yes,No
+46,31,Female,4,Construction,Electrician,Senior High School,Project-based,"17,500",40,No,Yes
+47,36,Female,6,Education,Office Staff,College Graduate,Project-based,"17,000",40,No,Yes
+48,7,Male,1,Information and Communication,IT Support Staff,College Graduate,Casual,"28,500",50,Yes,No
+49,37,Male,10,Construction,Electrician,Elementary,Regular,"20,000",40,Yes,No
+50,7,Male,4,Accommodation and Food Service,Cook,Elementary,Probationary,"12,000",40,No,Yes
+51,17,Male,5,Administrative Services,Office Clerk,College Graduate,Probationary,"15,000",54,No,No
+52,8,Male,8,Manufacturing,Machine Operator,College Graduate,Contractual,"18,000",40,No,Yes
+53,39,Female,8,Information and Communication,Data Encoder,College Undergraduate,Contractual,"21,500",40,Yes,Yes
+54,20,Male,9,Manufacturing,Machine Operator,Elementary,Casual,"12,000",48,No,Yes
+55,9,Female,7,Transportation and Storage,Delivery Rider,Senior High School,Project-based,"11,500",54,No,No
+56,7,Male,5,Accommodation and Food Service,Housekeeping Staff,Junior High School,Contractual,"15,000",40,No,Yes
+57,2,Male,10,Human Health and Social Work,Medical Secretary,Senior High School,Probationary,"15,500",50,Yes,Yes
+58,28,Female,1,Human Health and Social Work,Medical Secretary,College Graduate,Casual,"21,500",40,Yes,Yes
+59,7,Female,10,Administrative Services,HR Assistant,Senior High School,Casual,"19,000",60,No,Yes
+60,17,Male,9,Information and Communication,IT Support Staff,Junior High School,Regular,"21,500",50,Yes,No
+61,8,Male,3,Construction,Construction Worker,College Graduate,Probationary,"23,000",40,No,Yes
+62,11,Male,10,Accommodation and Food Service,Service Crew,Elementary,Casual,"9,000",60,Yes,No
+63,36,Female,9,Information and Communication,IT Support Staff,Vocational/Technical,Regular,"13,500",40,No,Yes
+64,6,Male,3,Wholesale and Retail Trade,Cashier,Senior High School,Project-based,"11,500",40,Yes,No
+65,33,Female,10,Transportation and Storage,Driver,College Graduate,Probationary,"10,000",48,Yes,Yes
+66,6,Male,1,Information and Communication,Programmer,Senior High School,Regular,"18,500",40,No,Yes
+67,38,Female,2,Wholesale and Retail Trade,Cashier,College Graduate,Probationary,"17,000",40,Yes,No
+68,37,Male,5,Accommodation and Food Service,Cook,Vocational/Technical,Casual,"12,500",50,Yes,Yes
+69,24,Female,6,Human Health and Social Work,Caregiver,Elementary,Probationary,"21,000",50,Yes,Yes
+70,29,Female,9,Education,Teaching Assistant,Junior High School,Regular,"9,500",40,No,Yes
+71,7,Male,1,Construction,Construction Worker,Senior High School,Casual,"17,500",40,Yes,Yes
+72,16,Male,5,Construction,Construction Worker,Vocational/Technical,Regular,"17,000",40,No,No
+73,21,Female,5,Education,Office Staff,Vocational/Technical,Regular,"22,000",54,Yes,Yes
+74,35,Male,6,Wholesale and Retail Trade,Store Clerk,Vocational/Technical,Contractual,"16,500",40,No,No
+75,14,Female,7,Construction,Site Assistant,Junior High School,Probationary,"11,000",48,No,No
+76,21,Female,2,Information and Communication,Data Encoder,College Graduate,Contractual,"20,000",48,Yes,Yes
+77,22,Male,7,Administrative Services,Accounting Staff,Senior High School,Project-based,"17,500",54,No,No
+78,14,Male,2,Human Health and Social Work,Medical Secretary,Elementary,Project-based,"19,500",54,No,No
+79,24,Female,8,Human Health and Social Work,Medical Secretary,Junior High School,Project-based,"21,000",45,Yes,Yes
+80,7,Female,6,Information and Communication,Data Encoder,Elementary,Regular,"33,000",45,Yes,Yes
+81,34,Female,2,Information and Communication,IT Support Staff,Vocational/Technical,Project-based,"24,000",40,No,No
+82,24,Female,10,Information and Communication,Data Encoder,Elementary,Probationary,"26,000",48,No,No
+83,36,Female,6,Education,Office Staff,College Graduate,Regular,"16,000",40,Yes,Yes
+84,25,Male,9,Education,Teaching Assistant,Senior High School,Probationary,"18,500",40,Yes,Yes
+85,16,Male,7,Manufacturing,Production Worker,Senior High School,Project-based,"14,000",45,No,No
+86,1,Female,9,Manufacturing,Machine Operator,College Graduate,Contractual,"10,500",40,No,No
+87,34,Male,5,Construction,Site Assistant,Senior High School,Regular,"18,000",45,Yes,No
+88,21,Female,4,Education,Teaching Assistant,College Graduate,Probationary,"21,000",50,No,Yes
+89,31,Male,5,Accommodation and Food Service,Housekeeping Staff,Senior High School,Project-based,"19,500",45,No,Yes
+90,34,Female,6,Administrative Services,Office Clerk,Junior High School,Contractual,"20,000",54,No,Yes
+91,31,Female,3,Wholesale and Retail Trade,Cashier,Vocational/Technical,Project-based,"14,500",40,No,No
+92,15,Male,1,Administrative Services,HR Assistant,Senior High School,Regular,"21,000",54,Yes,Yes
+93,4,Male,5,Manufacturing,Quality Inspector,Elementary,Contractual,"21,000",48,No,Yes
+94,5,Female,6,Manufacturing,Quality Inspector,Elementary,Project-based,"13,000",54,No,Yes
+95,26,Male,3,Information and Communication,IT Support Staff,College Undergraduate,Contractual,"20,500",50,No,No
+96,3,Female,10,Administrative Services,Accounting Staff,Vocational/Technical,Project-based,"18,500",45,Yes,No
+97,7,Female,8,Wholesale and Retail Trade,Sales Associate,Elementary,Probationary,"13,500",40,No,No
+98,31,Female,8,Construction,Construction Worker,College Undergraduate,Contractual,"12,500",54,No,Yes
+99,13,Male,6,Accommodation and Food Service,Housekeeping Staff,Elementary,Contractual,"13,000",45,No,No
+100,39,Female,1,Administrative Services,Accounting Staff,Elementary,Probationary,"16,000",50,Yes,No
+101,31,Female,1,Administrative Services,Accounting Staff,College Undergraduate,Casual,"20,500",40,No,Yes
+102,19,Male,9,Wholesale and Retail Trade,Store Clerk,College Graduate,Casual,"15,000",48,No,Yes
+103,12,Female,7,Wholesale and Retail Trade,Cashier,Senior High School,Contractual,"14,000",50,Yes,No
+104,20,Female,2,Transportation and Storage,Driver,College Undergraduate,Casual,"20,000",40,No,Yes
+105,22,Female,7,Information and Communication,Programmer,College Graduate,Probationary,"30,000",60,Yes,Yes
+106,3,Female,7,Manufacturing,Machine Operator,Junior High School,Project-based,"19,500",48,Yes,Yes
+107,11,Female,6,Wholesale and Retail Trade,Store Clerk,Elementary,Regular,"9,000",48,Yes,Yes
+108,5,Female,4,Administrative Services,Office Clerk,Senior High School,Regular,"23,500",40,No,No
+109,14,Female,2,Education,Teacher,Senior High School,Regular,"17,500",40,Yes,Yes
+110,37,Female,3,Administrative Services,HR Assistant,Vocational/Technical,Casual,"17,500",60,No,No
+111,17,Male,1,Accommodation and Food Service,Housekeeping Staff,Elementary,Casual,"16,000",40,Yes,Yes
+112,19,Male,1,Human Health and Social Work,Caregiver,Vocational/Technical,Probationary,"10,500",54,No,Yes
+113,9,Female,5,Accommodation and Food Service,Cook,Elementary,Casual,"15,500",48,Yes,Yes
+114,23,Male,10,Wholesale and Retail Trade,Store Clerk,Junior High School,Probationary,"16,000",40,Yes,No
+115,8,Female,3,Education,Teacher,Vocational/Technical,Regular,"21,500",45,Yes,No
+116,16,Male,1,Administrative Services,HR Assistant,Vocational/Technical,Probationary,"19,000",40,Yes,No
+117,41,Male,10,Transportation and Storage,Driver,Vocational/Technical,Project-based,"22,000",54,Yes,Yes
+118,36,Female,2,Administrative Services,HR Assistant,College Undergraduate,Regular,"19,000",45,Yes,No
+119,4,Male,10,Administrative Services,Accounting Staff,Junior High School,Project-based,"26,000",45,No,Yes
+120,1,Male,4,Information and Communication,Data Encoder,Elementary,Project-based,"22,000",60,Yes,Yes
+121,15,Male,8,Wholesale and Retail Trade,Cashier,Senior High School,Casual,"15,500",48,No,No
+122,24,Female,3,Education,Office Staff,Vocational/Technical,Regular,"20,500",54,Yes,Yes
+123,31,Male,2,Education,Office Staff,College Undergraduate,Probationary,"17,000",54,No,No
+124,1,Male,9,Wholesale and Retail Trade,Store Clerk,College Undergraduate,Casual,"19,500",40,Yes,No
+125,1,Male,2,Human Health and Social Work,Caregiver,College Graduate,Casual,"18,000",40,No,No
+126,38,Male,4,Human Health and Social Work,Caregiver,Junior High School,Probationary,"16,000",40,Yes,No
+127,36,Male,1,Human Health and Social Work,Medical Secretary,Junior High School,Project-based,"16,500",40,Yes,No
+128,4,Female,1,Construction,Electrician,Junior High School,Regular,"18,000",40,No,Yes
+129,22,Male,10,Wholesale and Retail Trade,Cashier,Vocational/Technical,Regular,"9,500",60,Yes,Yes
+130,1,Female,5,Administrative Services,Accounting Staff,College Undergraduate,Contractual,"20,500",40,No,Yes
+131,39,Male,7,Administrative Services,Office Clerk,Vocational/Technical,Casual,"15,000",40,Yes,Yes
+132,30,Male,4,Information and Communication,IT Support Staff,College Undergraduate,Regular,"19,500",48,No,No
+133,37,Female,4,Accommodation and Food Service,Housekeeping Staff,College Undergraduate,Project-based,"12,000",54,No,Yes
+134,28,Male,7,Human Health and Social Work,Caregiver,College Undergraduate,Regular,"25,000",50,Yes,Yes
+135,26,Female,8,Administrative Services,Office Clerk,Elementary,Probationary,"20,500",50,No,No
+136,15,Female,2,Transportation and Storage,Driver,College Graduate,Contractual,"14,000",50,No,No
+137,9,Female,9,Information and Communication,Data Encoder,Junior High School,Casual,"23,500",40,No,No
+138,17,Female,10,Administrative Services,Accounting Staff,Senior High School,Casual,"16,500",40,No,No
+139,27,Male,3,Transportation and Storage,Delivery Rider,College Graduate,Casual,"18,000",40,Yes,No
+140,30,Male,7,Manufacturing,Production Worker,Senior High School,Regular,"15,500",40,No,Yes
+141,40,Male,7,Information and Communication,IT Support Staff,College Undergraduate,Casual,"28,000",48,Yes,Yes
+142,36,Female,6,Accommodation and Food Service,Cook,College Undergraduate,Casual,"16,000",45,No,Yes
+143,37,Female,2,Human Health and Social Work,Caregiver,Junior High School,Probationary,"22,500",48,Yes,Yes
+144,2,Female,2,Human Health and Social Work,Medical Secretary,Elementary,Contractual,"25,000",54,No,No
+145,19,Male,5,Administrative Services,Accounting Staff,Vocational/Technical,Regular,"16,000",40,No,Yes
+146,20,Female,10,Administrative Services,HR Assistant,Senior High School,Contractual,"20,500",40,Yes,Yes
+147,9,Male,3,Administrative Services,HR Assistant,Junior High School,Casual,"21,000",40,No,Yes
+148,25,Male,3,Administrative Services,Office Clerk,College Undergraduate,Contractual,"14,000",60,Yes,Yes
+149,36,Female,10,Administrative Services,Office Clerk,Senior High School,Contractual,"14,000",60,Yes,Yes
+150,30,Male,5,Accommodation and Food Service,Service Crew,Elementary,Project-based,"18,500",60,No,Yes
+151,10,Female,4,Construction,Electrician,Junior High School,Regular,"13,000",60,No,No
+152,8,Female,2,Manufacturing,Machine Operator,Elementary,Contractual,"15,000",40,Yes,No
+153,31,Male,3,Construction,Electrician,Elementary,Casual,"23,000",40,No,Yes
+154,30,Female,5,Information and Communication,IT Support Staff,Elementary,Regular,"17,500",54,Yes,No
+155,3,Female,6,Construction,Electrician,Vocational/Technical,Probationary,"19,000",54,Yes,Yes
+156,39,Male,1,Wholesale and Retail Trade,Store Clerk,College Undergraduate,Regular,"13,000",60,Yes,No
+157,19,Male,9,Transportation and Storage,Driver,Junior High School,Casual,"16,500",40,No,No
+158,21,Female,1,Administrative Services,Office Clerk,College Undergraduate,Regular,"19,000",45,No,No
+159,23,Female,7,Human Health and Social Work,Medical Secretary,Junior High School,Probationary,"20,000",40,No,No
+160,39,Male,7,Accommodation and Food Service,Housekeeping Staff,College Graduate,Casual,"12,000",40,Yes,No
+161,38,Female,3,Wholesale and Retail Trade,Store Clerk,Vocational/Technical,Probationary,"14,000",50,No,No
+162,35,Male,6,Transportation and Storage,Warehouse Worker,Senior High School,Project-based,"14,500",40,Yes,Yes
+163,30,Male,2,Information and Communication,Programmer,Vocational/Technical,Probationary,"20,500",54,Yes,Yes
+164,10,Female,9,Manufacturing,Machine Operator,College Undergraduate,Probationary,"13,500",54,Yes,No
+165,27,Male,3,Construction,Construction Worker,Junior High School,Casual,"21,000",50,Yes,No
+166,26,Male,1,Wholesale and Retail Trade,Sales Associate,College Undergraduate,Probationary,"15,500",45,Yes,Yes
+167,8,Male,1,Human Health and Social Work,Caregiver,Senior High School,Regular,"23,500",54,Yes,No
+168,3,Female,2,Human Health and Social Work,Medical Secretary,Junior High School,Probationary,"16,000",40,No,No
+169,26,Male,7,Education,Teacher,Junior High School,Regular,"21,500",40,Yes,Yes
+170,3,Male,2,Education,Teaching Assistant,Senior High School,Probationary,"18,500",40,Yes,Yes
+171,33,Male,4,Manufacturing,Machine Operator,Vocational/Technical,Casual,"18,000",40,Yes,Yes
+172,23,Male,9,Accommodation and Food Service,Housekeeping Staff,College Undergraduate,Probationary,"15,500",40,No,No
+173,12,Female,10,Accommodation and Food Service,Cook,Vocational/Technical,Probationary,"16,500",40,No,No
+174,25,Male,10,Accommodation and Food Service,Housekeeping Staff,Elementary,Probationary,"18,000",60,Yes,Yes
+175,25,Male,5,Manufacturing,Quality Inspector,Vocational/Technical,Contractual,"15,500",54,No,No
+176,32,Female,4,Construction,Site Assistant,Junior High School,Contractual,"17,000",45,Yes,Yes
+177,31,Female,5,Education,Teacher,College Graduate,Casual,"23,500",45,No,Yes
+178,3,Female,3,Manufacturing,Production Worker,Elementary,Casual,"17,000",40,No,Yes
+179,34,Female,9,Human Health and Social Work,Medical Secretary,Senior High School,Project-based,"29,500",45,No,No
+180,40,Male,8,Information and Communication,Programmer,Junior High School,Contractual,"25,000",40,No,No
+181,11,Female,9,Administrative Services,Office Clerk,Elementary,Regular,"24,500",45,Yes,No
+182,8,Female,10,Human Health and Social Work,Medical Secretary,College Undergraduate,Contractual,"16,500",60,Yes,No
+183,36,Male,7,Education,Teaching Assistant,Vocational/Technical,Project-based,"22,500",40,Yes,No
+184,21,Female,9,Construction,Electrician,College Undergraduate,Contractual,"18,500",45,Yes,No
+185,26,Male,9,Construction,Electrician,College Undergraduate,Probationary,"19,000",45,Yes,Yes
+186,9,Female,9,Construction,Electrician,Vocational/Technical,Contractual,"14,500",40,Yes,No
+187,28,Male,9,Information and Communication,IT Support Staff,College Undergraduate,Casual,"33,000",40,Yes,Yes
+188,4,Female,6,Human Health and Social Work,Caregiver,Elementary,Regular,"30,000",60,Yes,No
+189,15,Female,6,Construction,Site Assistant,Elementary,Casual,"13,000",54,Yes,No
+190,20,Female,4,Human Health and Social Work,Nursing Assistant,Elementary,Contractual,"14,000",45,No,No
+191,25,Male,8,Information and Communication,IT Support Staff,College Undergraduate,Contractual,"19,000",54,Yes,Yes
+192,28,Female,10,Human Health and Social Work,Medical Secretary,College Graduate,Project-based,"19,000",40,Yes,No
+193,35,Male,8,Accommodation and Food Service,Cook,Elementary,Contractual,"14,500",54,No,Yes
+194,17,Male,10,Transportation and Storage,Delivery Rider,Junior High School,Casual,"14,500",54,Yes,No
+195,13,Female,7,Wholesale and Retail Trade,Cashier,Vocational/Technical,Casual,"16,500",48,No,No
+196,37,Male,5,Education,Office Staff,Senior High School,Casual,"24,000",45,Yes,Yes
+197,35,Male,9,Wholesale and Retail Trade,Cashier,College Graduate,Contractual,"12,500",40,Yes,Yes
+198,34,Female,8,Construction,Construction Worker,Elementary,Casual,"13,500",40,Yes,Yes
+199,2,Male,10,Manufacturing,Production Worker,Elementary,Contractual,"16,000",40,No,No
+200,38,Male,3,Accommodation and Food Service,Housekeeping Staff,Vocational/Technical,Project-based,"15,000",45,No,Yes
